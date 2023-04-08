@@ -1,5 +1,5 @@
 [package]
-name = "contracts-bindings"
+name = "coin-shuffle-contracts-bindings"
 version = "0.0.1"
 edition = "2021"
 
